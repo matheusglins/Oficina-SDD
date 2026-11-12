@@ -1,0 +1,16 @@
+{
+  "name": "inscricoes-oficina",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Case da oficina de SDD: inscrições com vagas limitadas (Node + Express, dados em memória)",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
